@@ -1,0 +1,4 @@
+[submodule "fusor-sim"]
+	path = fusor-sim
+	url = https://github.com/SlyAquaGuy/fusor-sim.git
+	branch = main
